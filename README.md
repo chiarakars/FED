@@ -36,15 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-  https://www.porsche.com/netherlands/nl/
+  [(https://www.porsche.com/netherlands/nl/)]
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  [hier de naam van de pagina  ](https://www.porsche.com/netherlands/nl/)
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  [hier de naam van de pagina  ](https://www.porsche.com/netherlands/nl/models/911/911-turbo-models/911-turbo-s/)
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -69,14 +68,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="images/breakdownhome.jpg" width="275px" alt="breakdown van de hele pagina">
-  <img src="images/breakdownhome2.jpg" width="275px" alt="breakdown van de hele pagina"> 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
- 
+  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -90,10 +88,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  - eerste week in berlijn en tweede les ook afwezig > thuis alles ingehaald en vooruitgewerkt
-  - nieuwe site gekozen, dlo doorgenomen en presentaties bekeken
-  - breakdownschets gemaakt en html van beide pagina's er ingezet
-  - in les 3 actief meegedaan met de grid opdrachten
+  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
