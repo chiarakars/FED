@@ -142,10 +142,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - bij daphne meegekeken met haar carrousel > dvw aanpassen
+  - meegekeken met indeling van nav > li of aparte secties
+  - 
 
 </details>
 
