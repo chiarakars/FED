@@ -144,7 +144,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   - bij daphne meegekeken met haar carrousel > dvw aanpassen
   - meegekeken met indeling van nav > li of aparte secties
-  - 
+  - gekeken naar hoe je een bepaald woord meer nadruk kan geven > met em
+  - hoe je een woord/tekst een background image kan geven > background-clip:text; en color:transparent;
 
 </details>
 
