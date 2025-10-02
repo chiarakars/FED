@@ -57,7 +57,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+<p>mogelijkheid video's op pauze zetten</p>
+<p>text to speech</p>
 </details>
 
 
@@ -68,13 +69,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+    <img src="./readme-images/breakdownhome.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="./readme-images/breakdownhome2.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="./readme-images/dynamischdeel.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  
 
 </details>
 
@@ -89,7 +91,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+<p>eerste les afwezig vanwege kickoff in berlijn en tweede door persoonlijke reden</p>
+<p>thuis alles op dlo doorgenomen en slides bekeken en site gekozen. vervolgens een breakdown schets gemaakt en ook gelijk de volledige html van beide sites erin gezet. vanaf nu ligt de focus op de css</p>
 
   ### Agenda voor meeting
   samen met je groepje opstellen
@@ -104,10 +107,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - classes eruitgehaald
+  - volgorde verbeterd
+  - carrousel verwijderd > later in css
+  - img grootes uit html > in css doen
 
 </details>
 
@@ -121,7 +124,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  - elke les aanwezig > actief meegedaan met lesopdrachten
+  - opdracht hamburger menu meegedaan > nu zelf implementeren in code
+  - meer focus op codepen opdrachten dan eigen site > dit weekend css bijwerken
 
 
   ### Agenda voor meeting
