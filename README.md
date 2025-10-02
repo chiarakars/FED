@@ -39,11 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   [(https://www.porsche.com/netherlands/nl/)]
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  [hier de naam van de pagina  ](https://www.porsche.com/netherlands/nl/)
+  [Porsche homepage  ](https://www.porsche.com/netherlands/nl/)
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  [hier de naam van de pagina  ](https://www.porsche.com/netherlands/nl/models/911/911-turbo-models/911-turbo-s/)
+  [Porsche detailpagina ](https://www.porsche.com/netherlands/nl/models/911/911-turbo-models/911-turbo-s/)
 
  
 </details>
