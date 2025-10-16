@@ -181,22 +181,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+- mov exporteren van de site en in code zetten
+- carrousel (met mov's)
+- Het maken van een hamburger menu. (Kan ik daar uitkomen door de les terug te kijken van java script? sinds ik die gemist heb)
+Feedback op goed responsive maken van de website.
+Carousel verbeteren
+- hamburger menu is wederom gebroken. 
+- nog een probleem met de nav bar
+-  weer probleem met github
+-  moet ik bepaalde filmpjes toevoegen of is thumbnail genoeg
+-  hoe krijg ik de scrollbar weg en de puntjes omhoog
+-  Hoe ik mijn lege <a> tags een transitie kan geven
+-  en ook hoe ik een carousel met filmpjes maak
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
+  - websites van elkaar doorgegaan
 
 
 
