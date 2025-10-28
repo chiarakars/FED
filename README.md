@@ -200,6 +200,14 @@ Carousel verbeteren
 
   - websites van elkaar doorgegaan
 
+LAATSTE LES
+  - navigeren door de kopjes bij toegankelijkheid
+  - hoe je de stem veranderd (niet met tab maar andere shortcut)
+  - uit jezelf kunnen navigeren op mondeling dus zonder hulp (spiekbriefje mag)
+  - stel je komt er last minute achter dat iets niet klopt > zet het in read.me en laat zien dat je er bewust van bent
+  - wcag invullen: van nee naar ja gaan
+  - aangeven wat jij hebt verbeterd op de site
+
 
 
 
