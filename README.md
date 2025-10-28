@@ -207,6 +207,7 @@ LAATSTE LES
   - stel je komt er last minute achter dat iets niet klopt > zet het in read.me en laat zien dat je er bewust van bent
   - wcag invullen: van nee naar ja gaan
   - aangeven wat jij hebt verbeterd op de site
+  - focusstate toevoegen met custom property (var kleur)
 
 
 
