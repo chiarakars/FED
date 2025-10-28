@@ -238,6 +238,7 @@ Carousel verbeteren
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. gradient nav: https://www.w3schools.com/css/css3_gradients.asp 
+  1. gradient nav: https://www.w3schools.com/css/css3_gradients.asp
+  2. scroll animatie debug: https://chatgpt.com/c/69011098-61e8-832c-b5d2-d25d12e82a80 > id zelf veranderd naar queryselector
 
 </details>
