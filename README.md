@@ -247,7 +247,13 @@ LAATSTE LES
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. gradient nav: https://www.w3schools.com/css/css3_gradients.asp
-  2. scroll animatie debug: https://chatgpt.com/c/69011098-61e8-832c-b5d2-d25d12e82a80 > id zelf veranderd naar queryselector
+  1. Gradient nav: https://www.w3schools.com/css/css3_gradients.asp
+  2. Scroll animatie debug: https://chatgpt.com/c/69011098-61e8-832c-b5d2-d25d12e82a80 > id zelf veranderd naar queryselector
+  3. HR: https://www.w3schools.com/howto/howto_css_style_hr.asp 
+  4. Shortcuts (hulp van Lucas vorig jaar)
+  5. Hamburger menu: https://www.youtube.com/watch?v=aNDqzlAKmZc
+  6. Carrousel (vorig jaar)
+  7. Light dark mode van vorig jaar (student assistent vorig jaar)
+  8. Scroll animatie met button (met groepje vorig jaar)
 
 </details>
