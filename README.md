@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   [Porsche homepage  ](https://www.porsche.com/netherlands/nl/)
-
+  <img src="./readme-images/pagina1ss.png" width="375px" alt="screenshot porsche homepage">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   [Porsche detailpagina ](https://www.porsche.com/netherlands/nl/models/911/911-turbo-models/911-turbo-s/)
-
+  <img src="./readme-images/pagina2ss.png" width="375px" alt="screenshot porsche 911 pagina">
  
 </details>
 
@@ -59,6 +59,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen:
 <p>mogelijkheid video's op pauze zetten</p>
 <p>text to speech</p>
+
+ <img src="./readme-images/IMG_0298.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0299.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0300.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0301.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0302.png" width="375px" alt="Foto WCAG checklist">
+
 </details>
 
 
@@ -73,9 +80,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="./readme-images/breakdownhome2.jpg" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="./readme-images/dynamischdeel.png" width="375px" alt="breakdown van een dynamisch deel">
-
-  ### wellicht nog een dynamisch deel (bijv filter): 
+  <img src="./readme-images/dynamischdeelss.png" width="375px" alt="breakdown van een dynamisch deel">
   
 
 </details>
@@ -163,6 +168,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
 
+ <img src="./readme-images/IMG_0298.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0299.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0300.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0301.png" width="375px" alt="Foto WCAG checklist">
+ <img src="./readme-images/IMG_0302.png" width="375px" alt="Foto WCAG checklist">
+ 
 </details>
 
 
@@ -230,11 +241,9 @@ LAATSTE LES
   Korte omschrijving met plaatjes
 Ik ben het meest trots op mijn hamburger menu. Dit was vorig jaar de hoofdoorzaak waarom ik het vak niet had gehaald, en nu is dat wel gelukt! Het heeft me wel lang geduurd in totaal, zo'n 6 uur gok ik. Ik wilde namelijk een transition in de icon van hamburger naar kruisje - wat gelukt was, maar niet lukte met z-index om het op de juiste plek te krijgen. Vooral dat laatste heeft mij echt veel tijd gekost om erachter te komen waar het aan ligt. Uiteindelijk heb ik het menu op de manier gedaan als hoe het op de originele site is. 
 
-IMG HAMBURGER MENU
 
 Ook heb ik vorig jaar overal (ja, echt overal) gebruik gemaakt van classes. Ik wist niet eens hoe het op een andere manier kon, en nu kon ik tutorials volgen waarbij er classes werden gebruikt en ik dat zelf kon implementeren met elementen als nth-of-type en de juiste aanspreekpunten. Het duurde even tot ik dit helemaal onder de knie had, maar toen ik het eenmaal begreep was het heel chill toe te passen. Wel vind ik het op deze manier wat lastiger terug vinden wat je precies aanspreekt, maar met kleine tekstjes er zelf bij gezet, werkte het prima!
 
-IMG CODE
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
