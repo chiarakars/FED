@@ -97,12 +97,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+1. Hoe kan ik forms goed uitwerken, zoals een email input field
+2. Navigatie bar die zelf links heeft, met extra links er onder. Links kunnen alleen niet in links zitten. Hoe moet dit opgelost worden?
+3. 2 korte vraagjes over headers en of daar per se een tekst onder moet staan en hoe het ook alweer zat met SVG bestanden.
+4. font inladen
+5. carousel maken
+6. een bepaald hover effect in een <UL> maken
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -132,12 +132,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+1. hoe los ik het probleem met mijn carrousel op?
+2. hoe moet ik werken met bepaalde foto’s waar text op staat
+3. Hoe werk ik met een SVG Logo.
+4. Veel verschillende styling voor headers en andere elementen, hoe opstellen in style sheet zonder classes en heel veel uitzonderingen maken.
+5. hoe kan ik mijn menu verbergen in een hamburger menu?
+6. hoe maak ik mijn carousel werkend 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
@@ -176,6 +176,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+- pagina 1 bijna helemaal af
+- hamburger menu nog doen (!)
+- verder werken aan pagina 2 en beginnen aan de surface planes (deels code van vorig jaar)
 
 
   ### Agenda voor meeting
@@ -224,12 +228,21 @@ LAATSTE LES
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+Ik ben het meest trots op mijn hamburger menu. Dit was vorig jaar de hoofdoorzaak waarom ik het vak niet had gehaald, en nu is dat wel gelukt! Het heeft me wel lang geduurd in totaal, zo'n 6 uur gok ik. Ik wilde namelijk een transition in de icon van hamburger naar kruisje - wat gelukt was, maar niet lukte met z-index om het op de juiste plek te krijgen. Vooral dat laatste heeft mij echt veel tijd gekost om erachter te komen waar het aan ligt. Uiteindelijk heb ik het menu op de manier gedaan als hoe het op de originele site is. 
+
+IMG HAMBURGER MENU
+
+Ook heb ik vorig jaar overal (ja, echt overal) gebruik gemaakt van classes. Ik wist niet eens hoe het op een andere manier kon, en nu kon ik tutorials volgen waarbij er classes werden gebruikt en ik dat zelf kon implementeren met elementen als nth-of-type en de juiste aanspreekpunten. Het duurde even tot ik dit helemaal onder de knie had, maar toen ik het eenmaal begreep was het heel chill toe te passen. Wel vind ik het op deze manier wat lastiger terug vinden wat je precies aanspreekt, maar met kleine tekstjes er zelf bij gezet, werkte het prima!
+
+IMG CODE
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
+
+  Zoals ik hierboven heb geschreven heeft de animatie van het hamburgermenu naar kruisje mij lang gekost. De animatie zelf lukte al snel met de tutorial, maar de plaatsing ervan niet. Hetgeen waar ik tegenaan liep was was de z-index. Het menu stond op de juiste plek, maar zodra de sidemenu uitklapte kwam het erachter te staan of kwam de volledige nav bar erop te staan - niet enkel de hamburger. ik heb hierbij de hulp van chat ingeschakeld en hele specifieke prompts gegeven, maar ook dit hielp niet. Het is me ook niet meer gelukt om erachter te komen, jammer, want ik ben nu wel erg benieuwd. (ik heb de code hiervan onderin mijn css laten staan om te laten zien dat ik hier actief mee aan de slag ben gegaan, ondanks het resultaat niet is geworden als hoe ik zou willen)
 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
@@ -252,8 +265,9 @@ LAATSTE LES
   3. HR: https://www.w3schools.com/howto/howto_css_style_hr.asp 
   4. Shortcuts (hulp van Lucas vorig jaar)
   5. Hamburger menu: https://www.youtube.com/watch?v=aNDqzlAKmZc
-  6. Carrousel (vorig jaar)
-  7. Light dark mode van vorig jaar (student assistent vorig jaar)
-  8. Scroll animatie met button (met groepje vorig jaar)
+     https://codepen.io/chiarakars/pen/KwVpxZR
+  7. Carrousel (vorig jaar)
+  8. Light dark mode van vorig jaar (student assistent vorig jaar)
+  9. Scroll animatie met button (met groepje vorig jaar)
 
 </details>
